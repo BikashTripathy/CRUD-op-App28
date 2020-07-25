@@ -1,2 +1,3 @@
 # CRUD-op-App28
-SERVLET
+A website with CRUD operational features.
+
